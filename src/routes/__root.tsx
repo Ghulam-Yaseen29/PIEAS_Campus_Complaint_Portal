@@ -82,13 +82,17 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "AI-triaged campus facilities complaint system. Students report issues in plain language; staff triage them by AI priority.",
+          "CampusFix lets students report campus infrastructure issues in plain language. AI classifies, prioritizes, and rewrites reports so facilities staff can act faster.",
       },
       { name: "author", content: "CampusFix" },
-      { property: "og:title", content: "CampusFix" },
-      { property: "og:description", content: "AI-powered campus facilities complaint system." },
+      { property: "og:title", content: "CampusFix — Report campus issues, get them fixed faster" },
+      { property: "og:description", content: "CampusFix lets students report campus infrastructure issues in plain language. AI classifies, prioritizes, and rewrites reports so facilities staff can act faster." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "CampusFix — Report campus issues, get them fixed faster" },
+      { name: "twitter:description", content: "CampusFix lets students report campus infrastructure issues in plain language. AI classifies, prioritizes, and rewrites reports so facilities staff can act faster." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/99652907-eaca-4c52-bd36-df7c752a843d/id-preview-1e654067--e55fdeb4-5017-47ae-b549-fb4dcb6633b4.lovable.app-1784975928311.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/99652907-eaca-4c52-bd36-df7c752a843d/id-preview-1e654067--e55fdeb4-5017-47ae-b549-fb4dcb6633b4.lovable.app-1784975928311.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },

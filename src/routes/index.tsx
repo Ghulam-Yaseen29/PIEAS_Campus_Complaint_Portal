@@ -15,10 +15,10 @@ export const Route = createFileRoute("/")({
         content:
           "CampusFix lets students report campus infrastructure issues in plain language. AI classifies, prioritizes, and rewrites reports so facilities staff can act faster.",
       },
-      { property: "og:title", content: "CampusFix" },
+      { property: "og:title", content: "CampusFix — Report campus issues, get them fixed faster" },
       {
         property: "og:description",
-        content: "AI-powered campus facilities complaint system for students and staff.",
+        content: "CampusFix lets students report campus infrastructure issues in plain language. AI classifies, prioritizes, and rewrites reports so facilities staff can act faster.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
