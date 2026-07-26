@@ -33,7 +33,7 @@ CampusFix is a web app where students report campus issues — a broken fan, no 
 
 **Student**
 - Sign up / log in
-- Submit a complaint: title, description, location, optional photo
+- Submit a complaint: title, description and location.
 - See AI-generated category, priority, and improved description before final submit
 - View complaint history with live status: Pending → In Progress → Resolved
 - Open any complaint for full detail
