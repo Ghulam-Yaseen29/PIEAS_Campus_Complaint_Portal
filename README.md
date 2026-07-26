@@ -159,11 +159,14 @@ Output:
 
 ## f. Screenshots
 
-**Admin Dashboard:**/<img width="1358" height="724" alt="Admin" src="https://github.com/user-attachments/assets/89e18cef-3356-4657-8d3b-7ea49aa0f295" />
-)
-![AI review screen](./screenshots/ai-review.png)
-![Admin dashboard](./screenshots/admin-dashboard.png)
-![Student dashboard](./screenshots/student-dashboard.png)
+**Login Page:**<img width="1282" height="648" alt="login page" src="https://github.com/user-attachments/assets/340879c3-81ba-4bbd-9c84-b1a18547020a" />
+
+**Admin Dashboard:**<img width="1358" height="724" alt="Admin" src="https://github.com/user-attachments/assets/89e18cef-3356-4657-8d3b-7ea49aa0f295" />
+
+**Student Dashboard:**<img width="1365" height="724" alt="student" src="https://github.com/user-attachments/assets/0b4dcfd4-440d-4fef-b3c6-feffd5e110b0" />
+
+**AI Feature:**<img width="1291" height="708" alt="AI" src="https://github.com/user-attachments/assets/66df291d-5dee-4257-bd02-f2a1a4c940de" />
+
 
 ---
 
