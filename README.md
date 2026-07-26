@@ -1,6 +1,6 @@
 # 🛠️ CampusFix
 
-**Report it once. Let AI make sure it actually gets fixed.**
+**Report once. AI analyses, prioritises, and transforms your complaint into action..**
 
 🔗 **Live app:** [https://campus-complain-portal.lovable.app/auth](https://campus-complain-portal.lovable.app/auth)
 
