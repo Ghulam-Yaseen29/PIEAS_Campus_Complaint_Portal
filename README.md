@@ -43,7 +43,7 @@ CampusFix is a web app where students report campus issues — a broken fan, no 
 - Stats overview: total, pending, high-priority open, resolved this week
 - Filter by category, priority, status; sort by urgency or date
 - View original text side-by-side with AI-improved version
-- Update complaint status, timestamped
+- Update complaint status.
 
 **Everywhere**
 - Color-coded priority badges (🔴 High / 🟡 Medium / 🟢 Low)
